@@ -1,10 +1,8 @@
 ##############################################################################
 #
 # Name: azuredatabricks.py
-# Usage: Defines classes for Azure Databricks Clusters and Jobs for JLL UDP.
+# Usage: Defines classes for Azure Databricks Clusters and Jobs for UDP.
 #        Based on Databricks API v2.0
-# Author: Clarity Insights; Michael Holsomback
-# Creation Date: 05/02/2019
 #
 ##############################################################################
 
